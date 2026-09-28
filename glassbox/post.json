@@ -1,0 +1,126 @@
+{
+  "slug": "projectorclear",
+  "box": 67,
+  "question": "How does a cinema projector work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/projectorclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/projectorclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "360 years from a candle behind painted glass to laser light, micromirror chips and glowing LED walls.\n\n1659: The magic lantern\n1895: The first paid film show\n1896: Moving pictures reach India\n1896: The Maltese cross\n1970: IMAX opens at Expo '70\n1987: A chip made of tiny mirrors\n\nThe full story, with 30 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/projectorclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/projectorclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #cinemaprojector #projection #35mmfilm #genevadrive #maltesecross #rotaryshutter #history",
+      "youtube": {
+        "title": "The history of the cinema projector in 45 seconds #shorts",
+        "description": "360 years from a candle behind painted glass to laser light, micromirror chips and glowing LED walls.\n\n1659 · The magic lantern (Christiaan Huygens)\n1895 · The first paid film show (Auguste and Louis Lumière)\n1896 · Moving pictures reach India (Marius Sestier, for the Lumières)\n1896 · The Maltese cross (Oskar Messter, Max Gliewe and Robert W. Paul)\n1970 · IMAX opens at Expo '70 (Graeme Ferguson, Roman Kroitor, Robert Kerr and William Shaw)\n1987 · A chip made of tiny mirrors (Larry Hornbeck, Texas Instruments)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/projectorclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/projectorclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a cinema projector work?\n\nA Maltese cross that stops the film 24 times a second, a shutter that flashes every frame twice, and a chip with 9 million tilting mirrors. Step into the booth and see how a cinema throws a picture 30 metres onto a wall.\n\n→ A film projector pulls each frame into the gate, holds it still, and flashes light through it.\n→ A Maltese cross turns a quarter turn per frame: the film jumps down, then stands still.\n→ Two shutter blades flash every frame twice: 24 frames become 48 flashes, too fast to see flicker.\n→ A digital projector splits light into red, green and blue, one mirror chip for each.\n→ Each pixel is a mirror that tilts ±12°, flipping thousands of times a second to make grey.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/projectorclear (link in bio)\n\nBox No. 067 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #cinemaprojector #projection #35mmfilm #genevadrive #maltesecross #rotaryshutter #dlp #dmd #dcp",
+    "carousel": "Swipe through: How does a cinema projector work?\n\nA Maltese cross that stops the film 24 times a second, a shutter that flashes every frame twice, and a chip with 9 million tilting mirrors. Step into the booth and see how a cinema throws a picture 30 metres onto a wall.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/projectorclear (link in bio).\n\nBox No. 067 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #cinemaprojector #projection #35mmfilm #genevadrive #maltesecross #rotaryshutter",
+    "youtube": {
+      "title": "How does a cinema projector work? #shorts",
+      "description": "A Maltese cross that stops the film 24 times a second, a shutter that flashes every frame twice, and a chip with 9 million tilting mirrors. Step into the booth and see how a cinema throws a picture 30 metres onto a wall.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/projectorclear/\n⌘ Source code (MIT): https://github.com/bdeeps/projectorclear\n\nBox No. 067 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a cinema projector work? (interactive explainer)",
+      "description": "A Maltese cross that stops the film 24 times a second, a shutter that flashes every frame twice, and a chip with 9 million tilting mirrors. Step into the booth and see how a cinema throws a picture 30 metres onto a wall.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/projectorclear/\n⌘ Source code (MIT): https://github.com/bdeeps/projectorclear\n\nIn this video:\n• Film stops, flashes, then jumps. A 35 mm projector pulls film from a platter through a gate.\n• Nine million mirrors per colour. A digital cinema projector splits lamp or laser light into red, green and blue, one DLP chip each.\n• The lens sets the size, the screen sets the brightness. Picture width = throw × chip width ÷ focal length.\n• 3D is two films sharing one screen. One projector flashes left and right pictures 144 times a second.\n• A film in files, locked with a key. Films arrive as a DCP: JPEG 2000 frames at up to 250 Mbit/s, roughly 150 to 250 GB for a feature, by drive, internet or satellite (India's UFO Moviez and Qube pioneered satellite delivery).\n• Bigger, faster, brighter. IMAX runs 70 mm film sideways, 15 perforations a frame, about ten times the area of 35 mm, and now uses twin lasers.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a cinema projector work?\n\nA Maltese cross that stops the film 24 times a second, a shutter that flashes every frame twice, and a chip with 9 million tilting mirrors.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/projectorclear/",
+    "linkedin": "How does a cinema projector work?\n\nA Maltese cross that stops the film 24 times a second, a shutter that flashes every frame twice, and a chip with 9 million tilting mirrors. Step into the booth and see how a cinema throws a picture 30 metres onto a wall.\n\n1. Film stops, flashes, then jumps\n2. Nine million mirrors per colour\n3. The lens sets the size, the screen sets the brightness\n4. 3D is two films sharing one screen\n5. A film in files, locked with a key\n6. Bigger, faster, brighter\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 067 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/projectorclear/\nCode: https://github.com/bdeeps/projectorclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-28T04:13:52.987Z"
+}

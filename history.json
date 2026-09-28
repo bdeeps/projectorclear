@@ -1,0 +1,962 @@
+{
+  "title": "The history of the cinema projector",
+  "tagline": "360 years from a candle behind painted glass to laser light, micromirror chips and glowing LED walls.",
+  "intro": "People first threw pictures onto walls with a lamp and a lens. In 1895 inventors learned to pull a strip of film past that lamp one frozen frame at a time, fast enough to fool the eye into seeing motion, and cinema was born. For a hundred years projectors grew brighter, louder and bigger, with sound printed on the film and giant screens like IMAX. Then a chip covered in tiny moving mirrors replaced the film itself, and movies began arriving by hard drive and satellite, from Hollywood to small towns across India.",
+  "eras": [
+    {
+      "id": "lantern",
+      "name": "Pictures made of light",
+      "from": 1659,
+      "to": 1894,
+      "color": "#c49bff",
+      "summary": "The magic lantern shines a lamp through painted glass and a lens. Showmen tour Europe and beyond with still pictures, ghosts and stories on a screen."
+    },
+    {
+      "id": "machine",
+      "name": "The clattering machine",
+      "from": 1895,
+      "to": 1930,
+      "color": "#ffb547",
+      "summary": "Film starts to move. Inventors in France, the US, Britain and Germany build hand-cranked projectors with a Maltese cross and a spinning shutter, and moving pictures reach Bombay within months."
+    },
+    {
+      "id": "bigscreen",
+      "name": "Brighter, louder, bigger",
+      "from": 1927,
+      "to": 1998,
+      "color": "#ff7a59",
+      "summary": "Sound is printed on the film, xenon lamps replace hissing carbon arcs, platters let one projector run a whole film, and IMAX makes the screen enormous."
+    },
+    {
+      "id": "digital",
+      "name": "Film becomes data",
+      "from": 1987,
+      "to": 2015,
+      "color": "#5ce1a9",
+      "summary": "A chip covered in tiny tilting mirrors replaces the film strip. Studios agree on one digital standard, India sends films by satellite, and 35 mm prints almost vanish."
+    },
+    {
+      "id": "light",
+      "name": "Lasers, LEDs and more frames",
+      "from": 2012,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Lasers replace lamps, some screens light up by themselves, films try faster frame rates, and India's single-screen halls give way to multiplexes."
+    }
+  ],
+  "events": [
+    {
+      "year": 1659,
+      "date": "c. 1659",
+      "era": "lantern",
+      "art": "candles",
+      "key": true,
+      "title": "The magic lantern",
+      "who": "Christiaan Huygens",
+      "where": "The Hague, Dutch Republic",
+      "country": "Netherlands",
+      "text": "The Dutch scientist Christiaan Huygens is widely credited with the first working magic lantern. The oldest known document about it is his page of sketches of a skeleton taking off its skull, thought to date from 1659. A lamp shone through a small painted glass slide, and a lens threw a big, bright copy of it onto a wall.",
+      "why": "Lamp, slide, lens and screen: every projector since, even a digital one, still has these four parts.",
+      "box": "screen",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 1664,
+      "date": "1664–1671",
+      "era": "lantern",
+      "art": "lens",
+      "title": "The lantern gets its name",
+      "who": "Thomas Walgensten and Athanasius Kircher",
+      "where": "Paris, Rome and Copenhagen",
+      "country": "Denmark",
+      "text": "The Danish mathematician Thomas Walgensten toured Europe showing the lantern from 1664, and he is credited with calling it the laterna magica. The Jesuit scholar Athanasius Kircher, who had written about projecting images in 1645, described the magic lantern in the 1671 edition of his book on light. Historians still argue about how much each man added.",
+      "why": "Travelling shows made people everywhere used to sitting in the dark and watching pictures on a screen.",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 1895,
+      "date": "13 February 1895",
+      "era": "machine",
+      "art": "projector",
+      "title": "One box that films and projects",
+      "who": "Auguste and Louis Lumière",
+      "where": "Lyon, France",
+      "country": "France",
+      "text": "The Lumière brothers patented a machine that could film, print and project moving pictures. It was a hand-cranked wooden box that pulled the film along with a claw, one frame at a time. It ran at about 16 frames each second, which became the usual speed of early silent films.",
+      "why": "Moving the film in short, exact steps, not smoothly, is the trick that makes still frames look like motion.",
+      "box": "film",
+      "sources": [
+        2,
+        8
+      ]
+    },
+    {
+      "year": 1895,
+      "date": "28 December 1895",
+      "era": "machine",
+      "art": "cinema",
+      "key": true,
+      "title": "The first paid film show",
+      "who": "Auguste and Louis Lumière",
+      "where": "Salon Indien, Grand Café, Paris",
+      "country": "France",
+      "text": "In a basement room of the Grand Café in Paris, the Lumières showed ten short films to a paying audience of about thirty people. Within weeks, crowds of up to 2,500 a day queued to get in. It is widely seen as the birth of cinema as a paid show, though others, like the Eidoloscope in New York, had shown films for money a few months earlier.",
+      "why": "A projector and a big screen let many people share one film, which is what made cinema a business.",
+      "box": "film",
+      "sources": [
+        3,
+        2
+      ]
+    },
+    {
+      "year": 1896,
+      "date": "23 April 1896",
+      "era": "machine",
+      "art": "projector",
+      "title": "Edison's Vitascope",
+      "who": "Thomas Armat, Charles Francis Jenkins and Thomas Edison",
+      "where": "Koster and Bial's Music Hall, New York",
+      "country": "United States",
+      "text": "Armat and Jenkins built a projector called the Phantoscope. Edison's company agreed to make it, but only if it was sold as a new Edison invention, the Vitascope. Its first theatre show was at Koster and Bial's Music Hall in New York.",
+      "why": "It brought projected films to American theatres, and showed how much a famous name could sell a machine.",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 1896,
+      "date": "7 July 1896",
+      "era": "machine",
+      "art": "filmreel",
+      "key": true,
+      "title": "Moving pictures reach India",
+      "who": "Marius Sestier, for the Lumières",
+      "where": "Watson's Hotel, Bombay",
+      "country": "India",
+      "text": "Just six months after Paris, the Lumière operator Marius Sestier showed six short films at Watson's Hotel in Bombay, now Mumbai. It was the first time moving pictures were shown in India. A second show followed a week later at the Novelty Theatre.",
+      "why": "The projector carried cinema around the world in a suitcase, and India would go on to make more films than any other country.",
+      "sources": [
+        4,
+        5
+      ]
+    },
+    {
+      "year": 1896,
+      "date": "1896",
+      "era": "machine",
+      "art": "gear",
+      "key": true,
+      "title": "The Maltese cross",
+      "who": "Oskar Messter, Max Gliewe and Robert W. Paul",
+      "where": "Berlin, Germany, and London, England",
+      "country": "Germany",
+      "text": "Projectors began to use the Geneva drive, or Maltese cross: a wheel with four slots that is nudged a quarter turn by a pin, then held still. The first uses in projectors date to 1896, in machines by Oskar Messter and Max Gliewe in Germany and in Robert W. Paul's Theatrograph in London. Each turn moves the film exactly one frame, then locks it steady while it is lit.",
+      "why": "Almost every film projector for the next hundred years used this clever star-shaped wheel.",
+      "box": "film",
+      "sources": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "year": 1902,
+      "date": "1902",
+      "era": "machine",
+      "art": "projector",
+      "title": "A three-bladed shutter stops the flicker",
+      "who": "Theodor Pätzold, made by Messter",
+      "where": "Berlin",
+      "country": "Germany",
+      "text": "Early films flickered badly, because the light went dark each time the film moved. The first three-bladed shutter is credited to Theodor Pätzold and went into production with Messter in 1902. It blinks the light three times for every frame, so the eye sees a fast, steady flicker it can no longer notice.",
+      "why": "Flashing each frame two or three times is still how film projectors trick the eye, at 48 or 72 flashes a second.",
+      "box": "film",
+      "sources": [
+        8,
+        10
+      ]
+    },
+    {
+      "year": 1905,
+      "date": "early 1900s",
+      "era": "machine",
+      "art": "flash",
+      "title": "Carbon arc light",
+      "who": "Cinema projectionists",
+      "where": "Cinemas worldwide",
+      "country": "Worldwide",
+      "text": "Early cinemas switched to carbon arc lamps: a blazing spark between two carbon rods. They were the only light bright enough for a large screen. The rods burned away, so projectionists had to keep adjusting the gap and change the rods often.",
+      "why": "A brighter lamp meant bigger screens and bigger audiences, and carbon arcs lit cinemas until the late 1960s.",
+      "box": "film",
+      "sources": [
+        11,
+        10
+      ]
+    },
+    {
+      "year": 1913,
+      "date": "3 May 1913",
+      "era": "machine",
+      "art": "cinema",
+      "title": "India's first feature film",
+      "who": "Dadasaheb Phalke",
+      "where": "Coronation Cinematograph, Girgaon, Bombay",
+      "country": "India",
+      "text": "Dadasaheb Phalke's Raja Harishchandra had a private preview at the Olympia Theatre on 21 April 1913, then opened to the public at the Coronation Cinematograph on 3 May. It ran four shows a day and was so popular its run was extended. Soon it was touring other cities on travelling projectors.",
+      "why": "It proved that Indian stories on an Indian screen could fill a hall, and Phalke is called the father of Indian cinema.",
+      "sources": [
+        12,
+        5
+      ]
+    },
+    {
+      "year": 1927,
+      "date": "1923–1927",
+      "era": "bigscreen",
+      "art": "film",
+      "title": "Sound printed on the film",
+      "who": "Lee de Forest; Theodore Case and Earl Sponable",
+      "where": "New York and Hollywood",
+      "country": "United States",
+      "text": "Lee de Forest's Phonofilm showed sound-on-film shorts in New York in 1923. Fox's Movietone system, by Case and Sponable, put the sound as a strip of light and dark next to the pictures, and Sunrise (1927) was the first professional feature with an optical soundtrack. A lamp and a light sensor in the projector turned that strip back into sound.",
+      "why": "Sound needed a fixed speed, so 24 frames a second became the standard that cinemas still use.",
+      "box": "film",
+      "sources": [
+        13,
+        14
+      ]
+    },
+    {
+      "year": 1931,
+      "date": "14 March 1931",
+      "era": "bigscreen",
+      "art": "clapper",
+      "title": "India's first talkie",
+      "who": "Ardeshir Irani",
+      "where": "Bombay",
+      "country": "India",
+      "text": "Alam Ara, India's first sound film, premiered in Bombay. Its sound was recorded straight onto the film with a single-system camera. Cinemas across India had to fit sound heads and speakers to their projectors to show the new talkies.",
+      "why": "Songs and dialogue became the heart of Indian cinema, and projectors everywhere had to learn to play them.",
+      "sources": [
+        13,
+        5
+      ]
+    },
+    {
+      "year": 1950,
+      "date": "30 October 1950",
+      "era": "bigscreen",
+      "art": "flash",
+      "title": "The xenon lamp",
+      "who": "Osram",
+      "where": "Berlin, Germany",
+      "country": "Germany",
+      "text": "Osram engineers built a lamp that sparks an arc through xenon gas inside a strong glass bulb. The first public projection with it was in Berlin in 1950, and Osram began selling cinema lamps in 1952. They reached the US in 1963 and became common in the 1970s.",
+      "why": "A xenon lamp gives steady white light for thousands of hours without anyone adjusting rods, and many digital projectors still use one.",
+      "box": "film",
+      "sources": [
+        15,
+        10
+      ]
+    },
+    {
+      "year": 1968,
+      "date": "1968–1969",
+      "era": "bigscreen",
+      "art": "filmreel",
+      "title": "The platter",
+      "who": "Willi Burth and Kinoton",
+      "where": "Germany",
+      "country": "Germany",
+      "text": "A feature film used to come on several reels, so cinemas needed two projectors and a quick changeover. Big flat platters let the whole film lie spliced together on one turntable, feeding the projector from the middle and winding back on another. The German cinema owner Willi Burth is credited with the idea, and Kinoton sold its ST 200 platter from about 1968.",
+      "why": "No rewinding and no changeovers meant one projectionist could run many screens, which helped make multiplexes possible.",
+      "box": "film",
+      "sources": [
+        16,
+        17
+      ]
+    },
+    {
+      "year": 1970,
+      "date": "15 March 1970",
+      "era": "bigscreen",
+      "art": "cinema",
+      "key": true,
+      "title": "IMAX opens at Expo '70",
+      "who": "Graeme Ferguson, Roman Kroitor, Robert Kerr and William Shaw",
+      "where": "Fuji Group Pavilion, Expo '70, Osaka",
+      "country": "Japan",
+      "text": "A team from Canada showed the first IMAX film, Tiger Child, at the Fuji Group Pavilion in Osaka. IMAX film runs sideways, and each frame is 15 perforations wide on 70 mm film, about ten times the area of a normal 35 mm frame. The first permanent IMAX cinema, the Cinesphere in Toronto, opened in 1971.",
+      "why": "It showed that a bigger frame could fill your whole view, the idea behind every giant screen since.",
+      "box": "future",
+      "sources": [
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "year": 1971,
+      "date": "1970–1971",
+      "era": "bigscreen",
+      "art": "gear",
+      "title": "The rolling loop",
+      "who": "Ron Jones and William Shaw",
+      "where": "Brisbane, Australia, and Toronto, Canada",
+      "country": "Canada",
+      "text": "IMAX film is so large that a claw would tear it. The Australian machinist Ron Jones had invented a rolling loop that moves film in a gentle wave, and William Shaw adapted it for IMAX. A blast of air holds each frame flat against the lens while it is shown.",
+      "why": "It let huge, heavy film move steadily enough to show sharp pictures on a screen many storeys high.",
+      "box": "future",
+      "sources": [
+        18,
+        20
+      ]
+    },
+    {
+      "year": 1975,
+      "date": "15 August 1975",
+      "era": "bigscreen",
+      "art": "film",
+      "title": "Sholay on 70 mm",
+      "who": "Ramesh Sippy",
+      "where": "Minerva theatre, Bombay",
+      "country": "India",
+      "text": "Sholay was shot on 35 mm film but blown up for a wide 70 mm release, with the first stereophonic soundtrack in an Indian film. It ran at Bombay's Minerva theatre for more than five years. The wide 70 mm prints needed special projectors and very bright lamps.",
+      "why": "It showed Indian audiences what a wide screen and big sound could do, decades before multiplexes.",
+      "box": "screen",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 1987,
+      "date": "1987",
+      "era": "digital",
+      "art": "chip",
+      "key": true,
+      "title": "A chip made of tiny mirrors",
+      "who": "Larry Hornbeck, Texas Instruments",
+      "where": "Dallas, Texas",
+      "country": "United States",
+      "text": "Larry Hornbeck invented the digital micromirror device, a chip covered in hundreds of thousands of aluminium mirrors, each about 16 micrometres wide. Each mirror tilts about 10 to 12 degrees to send light to the screen or away from it, switching thousands of times a second. It became the heart of DLP projectors, and in 2015 Hornbeck received an Oscar for it.",
+      "why": "Each mirror is one pixel, so a film could become pure data with no film strip at all.",
+      "box": "dlp",
+      "sources": [
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "year": 1997,
+      "date": "June 1997",
+      "era": "bigscreen",
+      "art": "building",
+      "title": "India's first multiplex",
+      "who": "Ajay Bijli, PVR",
+      "where": "Saket, New Delhi",
+      "country": "India",
+      "text": "PVR turned the old Anupam cinema in Saket into a four-screen multiplex, widely called India's first. It offered several films at once, comfy seats and better sound and projection. Multiplexes then spread across Indian cities in the 2000s.",
+      "why": "Many screens in one building changed how India went to the movies, and slowly squeezed the old single-screen halls.",
+      "box": "future",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 1999,
+      "date": "18 June 1999",
+      "era": "digital",
+      "art": "digital",
+      "key": true,
+      "title": "The first digital cinema screenings",
+      "who": "Lucasfilm, Texas Instruments and Hughes-JVC",
+      "where": "Los Angeles area and New Jersey",
+      "country": "United States",
+      "text": "Star Wars: Episode I was shown to paying audiences on four screens without any film. Two used Texas Instruments' DLP mirror chip, and two used a rival projector from Hughes-JVC. It is widely seen as the start of digital cinema.",
+      "why": "It proved a chip could match film on a real cinema screen, and DLP went on to power most digital cinemas.",
+      "box": "dlp",
+      "sources": [
+        26,
+        27,
+        23
+      ]
+    },
+    {
+      "year": 2001,
+      "date": "2001",
+      "era": "bigscreen",
+      "art": "cinema",
+      "title": "IMAX comes to India",
+      "who": "Adlabs",
+      "where": "Wadala, Mumbai",
+      "country": "India",
+      "text": "The film company Adlabs opened India's first IMAX theatre at Wadala in Mumbai. Its giant screen ran 15/70 film on an IMAX projector. Today India has many IMAX screens, most of them digital or laser.",
+      "why": "It brought the world's biggest film format to Indian audiences.",
+      "box": "future",
+      "sources": [
+        28,
+        18
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "March 2002 – 20 July 2005",
+      "era": "digital",
+      "art": "digital",
+      "key": true,
+      "title": "One standard for digital cinema",
+      "who": "Digital Cinema Initiatives (DCI)",
+      "where": "Hollywood, California",
+      "country": "United States",
+      "text": "In March 2002 seven big Hollywood studios formed Digital Cinema Initiatives to agree on how digital films should be packed, locked and shown. On 20 July 2005 they published version 1.0 of the DCI Specification. It set 2K and 4K pictures, JPEG 2000 compression and encrypted files that only open with a digital key.",
+      "why": "With one standard, any film could play on any approved projector anywhere in the world.",
+      "box": "dcp",
+      "sources": [
+        29,
+        26,
+        30
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "2005",
+      "era": "digital",
+      "art": "earth",
+      "key": true,
+      "title": "India sends films by satellite",
+      "who": "UFO Moviez and Qube Cinema",
+      "where": "Mumbai and Chennai",
+      "country": "India",
+      "text": "UFO Moviez, founded in Mumbai in 2004, began converting cinemas in 2005 to digital projectors that download films by satellite. Chennai's Qube Cinema launched its own digital cinema system the same year. By March 2008 UFO had digitised more than 1,000 cinemas, many in small towns.",
+      "why": "Cheaper digital copies let small-town halls show new films on the same day as big cities, years before most of the world went digital.",
+      "box": "dcp",
+      "sources": [
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "year": 2009,
+      "date": "2005–2009",
+      "era": "digital",
+      "art": "eye",
+      "title": "Digital 3D",
+      "who": "RealD, Dolby and James Cameron",
+      "where": "North America, then worldwide",
+      "country": "United States",
+      "text": "The first RealD 3D cinemas opened in North America in 2005. One digital projector flashes left-eye and right-eye pictures in turn, three times each per frame, and a filter and glasses send each picture to the right eye. By 2009 more than 10,000 screens were 3D-ready, and Avatar made 3D a worldwide hit.",
+      "why": "3D needed fast, exact digital projectors, so it pushed many cinemas to switch from film.",
+      "box": "stereo",
+      "sources": [
+        34,
+        26
+      ]
+    },
+    {
+      "year": 2012,
+      "date": "December 2012",
+      "era": "light",
+      "art": "film",
+      "title": "48 frames a second",
+      "who": "Peter Jackson",
+      "where": "Wellington, New Zealand, and cinemas worldwide",
+      "country": "New Zealand",
+      "text": "The Hobbit: An Unexpected Journey was the first widely released feature shot and shown at 48 frames a second, twice the usual 24. About 450 cinemas in North America showed the high frame rate version. Some viewers loved the smooth motion, and others said it looked too real, like video.",
+      "why": "It showed digital projectors could change the frame rate, a choice film projectors had fixed for 85 years.",
+      "box": "future",
+      "sources": [
+        35,
+        36
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "January 2014",
+      "era": "digital",
+      "art": "filmreel",
+      "key": true,
+      "title": "The last film prints",
+      "who": "Paramount Pictures",
+      "where": "Hollywood, California",
+      "country": "United States",
+      "text": "Paramount became the first major Hollywood studio to stop sending 35 mm prints to US cinemas: Anchorman 2 was its last film release, and The Wolf of Wall Street went out only as digital files. About 92% of US screens were already digital. By the end of 2014, about 90% of the world's cinema screens were digital.",
+      "why": "Once studios stopped making prints, film projectors went quiet in almost every cinema on Earth.",
+      "box": "dcp",
+      "sources": [
+        37,
+        38,
+        26
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "2014",
+      "era": "light",
+      "art": "spotlight",
+      "title": "Laser light",
+      "who": "Christie and IMAX",
+      "where": "Seattle, USA, and Toronto, Canada",
+      "country": "United States",
+      "text": "Christie installed what it called the first permanent laser cinema projector at the Seattle Cinerama in early 2014, after demonstrations in 2012 and 2013. In December 2014 IMAX with Laser opened in Toronto. Red, green and blue lasers replace the xenon lamp, giving brighter, more colourful light that barely fades with age.",
+      "why": "Lasers made 3D and giant screens bright enough, and are slowly replacing lamps in cinemas everywhere.",
+      "box": "dlp",
+      "sources": [
+        39,
+        18
+      ]
+    },
+    {
+      "year": 2017,
+      "date": "July 2017",
+      "era": "light",
+      "art": "pixels",
+      "key": true,
+      "title": "A screen with no projector",
+      "who": "Samsung and Lotte Cinema",
+      "where": "Lotte Cinema World Tower, Seoul",
+      "country": "South Korea",
+      "text": "Samsung's Onyx, the first LED cinema screen, opened at Lotte Cinema World Tower in Seoul. The screen is made of millions of tiny LEDs that make their own light, so there is no projector, lamp or lens at all. India's first Onyx screen opened at PVR Icon in Vasant Kunj, Delhi, in 2018.",
+      "why": "For the first time since the magic lantern, a cinema picture did not have to be thrown across a room.",
+      "box": "future",
+      "sources": [
+        40,
+        41
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "October 2019",
+      "era": "light",
+      "art": "clapper",
+      "title": "120 frames a second",
+      "who": "Ang Lee",
+      "where": "Cinemas worldwide",
+      "country": "United States",
+      "text": "Gemini Man was shot at 120 frames a second in 3D and shown at that speed on a few specially equipped screens. That is five times the usual 24. Most cinemas showed slower versions, because few projectors could keep up.",
+      "why": "It tested how far digital projection could push smooth motion, and showed that audiences do not all want it.",
+      "box": "future",
+      "sources": [
+        42,
+        36
+      ]
+    },
+    {
+      "year": 2025,
+      "date": "2025",
+      "era": "light",
+      "art": "building",
+      "title": "Fewer single screens in India",
+      "who": "Indian cinema owners",
+      "where": "Across India",
+      "country": "India",
+      "text": "India had roughly 12,000 to 13,000 single-screen halls in the 1980s. The FICCI-EY 2026 report counted 10,033 screens of all kinds in 2025, as multiplexes grew and many single screens shut, especially after the Covid-19 pandemic. In 2025 alone, 240 screens opened and 124 closed, mostly single screens.",
+      "why": "Digital projectors made it cheap to run many small screens in one building, reshaping where India watches films.",
+      "box": "future",
+      "sources": [
+        43,
+        25
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Magic lantern",
+      "value": "c. 1659",
+      "who": "Christiaan Huygens, Netherlands"
+    },
+    {
+      "label": "Paid public film show",
+      "value": "28 December 1895",
+      "who": "Lumière brothers, Paris"
+    },
+    {
+      "label": "Films shown in India",
+      "value": "7 July 1896",
+      "who": "Marius Sestier, Watson's Hotel, Bombay"
+    },
+    {
+      "label": "Maltese cross in a projector",
+      "value": "1896",
+      "who": "Oskar Messter, Max Gliewe and Robert W. Paul"
+    },
+    {
+      "label": "Three-bladed shutter",
+      "value": "1902",
+      "who": "Theodor Pätzold, made by Messter, Germany"
+    },
+    {
+      "label": "Public xenon-lamp projection",
+      "value": "30 October 1950",
+      "who": "Osram, Berlin"
+    },
+    {
+      "label": "IMAX film",
+      "value": "1970",
+      "who": "Tiger Child, Expo '70, Osaka"
+    },
+    {
+      "label": "Digital cinema screenings",
+      "value": "18 June 1999",
+      "who": "Star Wars: Episode I, USA"
+    },
+    {
+      "label": "Satellite digital cinema network",
+      "value": "2005",
+      "who": "UFO Moviez, India"
+    },
+    {
+      "label": "LED cinema screen",
+      "value": "July 2017",
+      "who": "Samsung Onyx, Seoul"
+    }
+  ],
+  "people": [
+    {
+      "name": "Christiaan Huygens",
+      "life": "1629 – 1695",
+      "role": "Scientist",
+      "from": "Netherlands",
+      "note": "Widely credited with the first magic lantern, which he later thought too frivolous."
+    },
+    {
+      "name": "Louis Lumière",
+      "life": "1864 – 1948",
+      "role": "Inventor and filmmaker",
+      "from": "France",
+      "note": "With his brother Auguste, built the Cinématographe and held the famous first paid show."
+    },
+    {
+      "name": "Marius Sestier",
+      "life": "1861 – 1928",
+      "role": "Lumière operator",
+      "from": "France",
+      "note": "A trained pharmacist who gave India its first film show, then helped open Australia's first cinema."
+    },
+    {
+      "name": "Oskar Messter",
+      "life": "1866 – 1943",
+      "role": "Inventor and producer",
+      "from": "Germany",
+      "note": "Built early projectors with a Maltese cross and produced the first three-bladed shutter."
+    },
+    {
+      "name": "Charles Francis Jenkins",
+      "life": "1867 – 1934",
+      "role": "Inventor",
+      "from": "USA",
+      "note": "Co-built the Phantoscope that Edison sold as the Vitascope."
+    },
+    {
+      "name": "Dadasaheb Phalke",
+      "life": "1870 – 1944",
+      "role": "Filmmaker",
+      "from": "India",
+      "note": "Made Raja Harishchandra, India's first feature film, in 1913."
+    },
+    {
+      "name": "William Shaw",
+      "life": "c. 1929 – 2002",
+      "role": "Engineer",
+      "from": "Canada",
+      "note": "Adapted the rolling loop so IMAX projectors could move giant film smoothly."
+    },
+    {
+      "name": "Larry Hornbeck",
+      "life": "born 1943",
+      "role": "Physicist",
+      "from": "USA",
+      "note": "Invented the micromirror chip behind DLP projectors and won an Oscar for it in 2015."
+    },
+    {
+      "name": "Graeme Ferguson",
+      "life": "1929 – 2021",
+      "role": "Filmmaker",
+      "from": "Canada",
+      "note": "Co-founded IMAX and helped name it after the idea of the maximum image."
+    }
+  ],
+  "series": [
+    {
+      "id": "digitalscreens",
+      "title": "Digital cinema screens worldwide",
+      "unit": "thousand screens",
+      "log": false,
+      "after": "digital",
+      "caption": "In just five years most of the world's cinema screens swapped their film projectors for digital ones.",
+      "points": [
+        {
+          "year": 2010,
+          "value": 35.1,
+          "label": "MPAA/IHS: 35,063 digital screens"
+        },
+        {
+          "year": 2011,
+          "value": 63.8,
+          "label": "MPAA/IHS: 63,825 digital screens"
+        },
+        {
+          "year": 2012,
+          "value": 89.3,
+          "label": "MPAA/IHS: 89,342 digital screens"
+        },
+        {
+          "year": 2013,
+          "value": 111.8,
+          "label": "MPAA/IHS: 111,809 digital screens"
+        },
+        {
+          "year": 2014,
+          "value": 127.7,
+          "label": "MPAA/IHS: 127,689, about 90% of all screens"
+        },
+        {
+          "year": 2015,
+          "value": 141.1,
+          "label": "MPAA/IHS: 141,050, 93% of all screens"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "A film projector shows each frame two or three times, so a 24-frame film flickers at 48 or 72 flashes a second, too fast to notice.",
+    "Each mirror on a DLP cinema chip is about 16 micrometres wide, several times thinner than a human hair, and can flip thousands of times a second.",
+    "The cinema standard for screen brightness is about 14 foot-lamberts, or 48 candelas per square metre, far dimmer than a phone screen.",
+    "Sholay ran at Bombay's Minerva theatre for more than five years.",
+    "IMAX's first film, Tiger Child, was shown to an audience riding a slowly rotating platform, so each person started watching at a different point."
+  ],
+  "sources": [
+    {
+      "title": "Magic lantern",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Magic_lantern"
+    },
+    {
+      "title": "A history of the Magic Lantern",
+      "publisher": "The Magic Lantern Society",
+      "url": "https://www.magiclantern.org.uk/history/"
+    },
+    {
+      "title": "Cinematograph",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cinematograph"
+    },
+    {
+      "title": "28 décembre 1895: première séance publique du 7e art",
+      "publisher": "Herodote.net",
+      "url": "https://www.herodote.net/28_decembre_1895-evenement-18951228.php"
+    },
+    {
+      "title": "Marius Sestier",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Marius_Sestier"
+    },
+    {
+      "title": "History of cinema of India",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_cinema_of_India"
+    },
+    {
+      "title": "Vitascope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vitascope"
+    },
+    {
+      "title": "Geneva drive",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Geneva_drive"
+    },
+    {
+      "title": "History of film technology",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_film_technology"
+    },
+    {
+      "title": "Oskar Messter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oskar_Messter"
+    },
+    {
+      "title": "Movie projector",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Movie_projector"
+    },
+    {
+      "title": "Carbon Arc Film Projection and Technicolor",
+      "publisher": "George Eastman Museum",
+      "url": "https://www.eastman.org/blog/carbon-arc-film-projection-and-technicolor"
+    },
+    {
+      "title": "Raja Harishchandra",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Raja_Harishchandra"
+    },
+    {
+      "title": "Sound film",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sound_film"
+    },
+    {
+      "title": "Movietone sound system",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Movietone_sound_system"
+    },
+    {
+      "title": "Xenon arc lamp",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Xenon_arc_lamp"
+    },
+    {
+      "title": "Kinoton",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kinoton"
+    },
+    {
+      "title": "Willi Burth",
+      "publisher": "Wikipedia (German)",
+      "url": "https://de.wikipedia.org/wiki/Willi_Burth"
+    },
+    {
+      "title": "IMAX",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/IMAX"
+    },
+    {
+      "title": "Tiger Child",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tiger_Child"
+    },
+    {
+      "title": "IMAX",
+      "publisher": "Ingenium, Canada's Museums of Science and Innovation",
+      "url": "https://ingeniumcanada.org/channel/innovation/imax"
+    },
+    {
+      "title": "Sholay",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sholay"
+    },
+    {
+      "title": "Digital micromirror device",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Digital_micromirror_device"
+    },
+    {
+      "title": "Texas Instruments Fellow Larry J. Hornbeck, PhD, wins the Oscar",
+      "publisher": "Texas Instruments",
+      "url": "https://www.ti.com/about-ti/newsroom/news-releases/2015/2015-02-09-texas-instruments-fellow-larry-j--hornbeck--phd--wins-the-oscar-.html"
+    },
+    {
+      "title": "Larry Hornbeck: Digital Micromirror Device",
+      "publisher": "National Inventors Hall of Fame",
+      "url": "https://www.invent.org/inductees/larry-hornbeck"
+    },
+    {
+      "title": "PVR INOX",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/PVR_INOX"
+    },
+    {
+      "title": "Digital cinema",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Digital_cinema"
+    },
+    {
+      "title": "TI helps show digital projection of Star Wars",
+      "publisher": "EE Times",
+      "url": "https://www.eetimes.com/ti-helps-show-digital-projection-of-star-wars/"
+    },
+    {
+      "title": "Manmohan Shetty",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Manmohan_Shetty"
+    },
+    {
+      "title": "Digital Cinema Initiatives",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Digital_Cinema_Initiatives"
+    },
+    {
+      "title": "Digital Cinema Package",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Digital_Cinema_Package"
+    },
+    {
+      "title": "UFO Moviez",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/UFO_Moviez"
+    },
+    {
+      "title": "India's UFO Moviez digitalises more than 1,000 cinemas",
+      "publisher": "Screen Daily",
+      "url": "https://www.screendaily.com/indias-ufo-moviez-digitalises-more-than-1000-cinemas/4037644.article"
+    },
+    {
+      "title": "Qube Cinema Technologies",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Qube_Cinema_Technologies"
+    },
+    {
+      "title": "RealD 3D",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/RealD_3D"
+    },
+    {
+      "title": "The Hobbit: An Unexpected Journey",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Hobbit:_An_Unexpected_Journey"
+    },
+    {
+      "title": "High frame rate",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/High_frame_rate"
+    },
+    {
+      "title": "We Are the 92%: The Wolf of Wall Street and the End of 35mm",
+      "publisher": "Chicago Film Society",
+      "url": "https://www.chicagofilmsociety.org/2014/01/24/the-wolf-of-wall-street/"
+    },
+    {
+      "title": "Theatrical Market Statistics 2014",
+      "publisher": "Motion Picture Association of America",
+      "url": "https://www.mpa-americalatina.org/wp-content/uploads/2015/03/MPAA-Theatrical-Market-Statistics-2014.pdf"
+    },
+    {
+      "title": "Laser movie projector to get first permanent commercial home",
+      "publisher": "Variety",
+      "url": "https://variety.com/2013/film/news/laser-movie-projector-gets-first-permanent-home-1200585999/"
+    },
+    {
+      "title": "Samsung debuts world's first cinema LED display",
+      "publisher": "Samsung Newsroom",
+      "url": "https://news.samsung.com/global/samsung-debuts-worlds-first-cinema-led-display"
+    },
+    {
+      "title": "Samsung and PVR launch India's first Onyx Cinema LED theatre",
+      "publisher": "Samsung Newsroom India",
+      "url": "https://news.samsung.com/in/samsung-and-pvr-launch-indias-first-onyx-cinema-led-theatre"
+    },
+    {
+      "title": "Gemini Man (film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gemini_Man_(film)"
+    },
+    {
+      "title": "Why India's single-screen theatres continue to survive despite the multiplex boom",
+      "publisher": "Forbes India",
+      "url": "https://www.forbesindia.com/article/showstoppers-2026/how-single-screens-keep-the-show-running-with-nostalgia-and-fandom/2997582/1"
+    },
+    {
+      "title": "Theatrical Market Statistics 2015",
+      "publisher": "Motion Picture Association of America",
+      "url": "https://www.mpa-apac.org/wp-content/uploads/2016/04/MPAA-Theatrical-Market-Statistics-2015_Final.pdf"
+    }
+  ]
+}

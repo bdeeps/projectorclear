@@ -1,0 +1,109 @@
+{
+  "slug": "projectorclear",
+  "box": 67,
+  "date": "2026-10-25",
+  "title": "ProjectorClear",
+  "question": "How does a cinema projector work?",
+  "hook": "A Maltese cross that stops the film 24 times a second, a shutter that flashes every frame twice, and a chip with 9 million tilting mirrors. Step into the booth and see how a cinema throws a picture 30 metres onto a wall.",
+  "thumbText": "HOW PROJECTORS WORK",
+  "field": "film",
+  "minutes": 15,
+  "tags": [
+    "cinema projector",
+    "projection",
+    "35 mm film",
+    "Geneva drive",
+    "Maltese cross",
+    "rotary shutter",
+    "DLP",
+    "DMD",
+    "DCP",
+    "3D cinema",
+    "IMAX",
+    "laser projection",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Film stops, flashes, then jumps",
+      "text": "A 35 mm projector pulls film from a platter through a gate. A Maltese cross turns a steady spin into a quarter-turn jerk: the film moves one frame in about 10 ms, then stands still for 31 ms. A two-bladed shutter hides the jump and flashes each frame twice, so 24 frames become 48 flashes, fast enough that the flicker disappears."
+    },
+    {
+      "title": "Nine million mirrors per colour",
+      "text": "A digital cinema projector splits lamp or laser light into red, green and blue, one DLP chip each. A 4K chip has 4096 × 2160 mirrors about 7.5 µm apart that tilt ±12°. Grey comes from timing: each mirror flips on and off thousands of times a second, and your eye averages the flashes."
+    },
+    {
+      "title": "The lens sets the size, the screen sets the brightness",
+      "text": "Picture width = throw × chip width ÷ focal length. Tilting a high projector makes a keystone, so cinemas use lens shift. The DCI standard asks for 14 fL (48 cd/m²); a silver screen is about 2.4× brighter straight on but dim from the side."
+    },
+    {
+      "title": "3D is two films sharing one screen",
+      "text": "One projector flashes left and right pictures 144 times a second. Polarised, active-shutter or colour-filter glasses let each eye see only its own picture. Each eye gets its picture half the time, and filters swallow more, so roughly a fifth of the light arrives."
+    },
+    {
+      "title": "A film in files, locked with a key",
+      "text": "Films arrive as a DCP: JPEG 2000 frames at up to 250 Mbit/s, roughly 150 to 250 GB for a feature, by drive, internet or satellite (India's UFO Moviez and Qube pioneered satellite delivery). The files are encrypted and only play when a KDM key, made for that one server, is valid."
+    },
+    {
+      "title": "Bigger, faster, brighter",
+      "text": "IMAX runs 70 mm film sideways, 15 perforations a frame, about ten times the area of 35 mm, and now uses twin lasers. Some films tried 48 or 120 fps. LED screens such as Samsung Onyx (2017) need no projector at all, while India's single screens give way to multiplexes."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Geneva drive",
+      "def": "A pin wheel and slotted Maltese cross that turn smooth rotation into quick quarter-turn steps."
+    },
+    {
+      "term": "Rotary shutter",
+      "def": "A spinning bladed disc that blocks light while the film moves and flashes each frame, usually twice."
+    },
+    {
+      "term": "Flicker fusion",
+      "def": "The flash rate above which light looks steady; at cinema brightness roughly 40 to 50 Hz."
+    },
+    {
+      "term": "DMD",
+      "def": "A digital micromirror device: a chip of millions of hinged mirrors, one per pixel, tilting on or off."
+    },
+    {
+      "term": "Pulse-width modulation",
+      "def": "Making in-between brightness by switching fully on and off and varying the on time."
+    },
+    {
+      "term": "Throw ratio",
+      "def": "Distance to the screen divided by picture width, set by the lens focal length."
+    },
+    {
+      "term": "Foot-lambert",
+      "def": "A unit of screen brightness; the DCI standard is 14 fL, or 48 cd/m²."
+    },
+    {
+      "term": "Screen gain",
+      "def": "How much brighter a screen looks straight on than matte white; silver is about 2.4."
+    },
+    {
+      "term": "DCP and KDM",
+      "def": "The Digital Cinema Package of encrypted files, and the Key Delivery Message that unlocks it for one server and time window."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "projectorclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
